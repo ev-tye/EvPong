@@ -1,6 +1,6 @@
 # EvPong
 
-A simple software rendered pong clone I made using C and the SDL3 library. Control the paddle using the up and down arrow keys, quit the game by pressing ESC. The AI is a bit juiced, but certainly beatable.
+A simple software rendered pong clone I made. Control the paddle using the up and down arrow keys, quit the game by pressing ESC. The AI is a bit juiced, but certainly beatable.
 
 If you're on Linux, just install the SDL3 library (or build it yourself) and run build.sh. On Windows you'll need to grab the binaries and adjust the CMake config.
 
